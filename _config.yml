@@ -1,8 +1,5 @@
 # The Site Configuration
 
-host: 0.0.0.0
-port: 4001
-
 # Import the theme
 theme: jekyll-theme-chirpy
 
